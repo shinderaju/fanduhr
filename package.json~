@@ -1,0 +1,25 @@
+{
+  "name": "fundoohr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "firebase": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BridgeLabzSource/fundooHR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BridgeLabzSource/fundooHR/issues"
+  },
+  "homepage": "https://github.com/BridgeLabzSource/fundooHR#readme"
+}
